@@ -9,6 +9,7 @@ class ZshGitAi < Formula
 
   def install
     (share/"zsh-git-ai").install "zsh-git-ai.plugin.zsh"
+    (share/"zsh-git-ai").install "lib"
   end
 
   def caveats
