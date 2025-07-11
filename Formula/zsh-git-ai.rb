@@ -1,8 +1,8 @@
 class ZshGitAi < Formula
   desc "AI-powered commit messages that actually make sense"
   homepage "https://github.com/matheusml/zsh-git-ai"
-  url "https://github.com/matheusml/zsh-git-ai/archive/refs/tags/v0.0.6.tar.gz"
-  sha256 "514f7fae9e52e147022139e85cf7abcb6fe161d8897a95bf63a92858e717ab20"
+  url "https://github.com/matheusml/zsh-git-ai/archive/refs/tags/v0.0.7.tar.gz"
+  sha256 "a44d78c61b9d5f013ec0491ac4a7374602f6ba38d54d9cae67a365de00c4fb97"
   license "MIT"
 
   depends_on "jq" => :recommended
